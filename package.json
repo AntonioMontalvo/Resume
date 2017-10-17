@@ -1,0 +1,16 @@
+{
+  "name": "web-resume",
+  "version": "1.0.0",
+  "description": "My resume and showcasing my applications to propspective employers",
+  "main": "views/index.html",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "Antonio Montalvo",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
